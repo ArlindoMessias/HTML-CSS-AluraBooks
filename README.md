@@ -24,6 +24,9 @@ O projeto consiste em uma página de um site chado AluraBooks que vende livros t
 </p>
 
 ## Exemplo de Funcionamento da Aplicação
+
+Link do projeto: https://arlindomessias.github.io/HTML-CSS-AluraBooks/
+
 |||
 | ---      | ---       |
 |Versão Desktop |![image](https://github.com/ArlindoMessias/HTML-CSS-AluraBooks/assets/47644068/bcc271df-9432-467d-b30f-accb49c84e4e)|
